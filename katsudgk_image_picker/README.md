@@ -31,7 +31,11 @@ But in last 5days training, by reading the docs from GDG and Flutter page. I hav
 As you know GetX is a very usable to navigation or change the state data from children widgets. 
 So that's why I try to create a function which is imagePickerOption() by using bottomsheet to navigate to a widget (SingleChildScrollView) which contains list buttons to show select options.
 And if user pick one of these options like taking pics from camera or gallery, then it will be displayed back to the screen.
- 
 Totally this project is using:
 image_picker: ^0.8.4+4
 get: ^4.5.1
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/52829521/145080885-6882fb70-2145-4de9-8eea-4e840d1cd649.gif)
+
+![1638899641914](https://user-images.githubusercontent.com/52829521/145081387-6b40fae0-8306-48a2-b08f-a23517d2c028.jpg)
+![1638899641900](https://user-images.githubusercontent.com/52829521/145081394-2bf20b35-8c35-4e76-9da2-e9de886540ce.jpg)
+
