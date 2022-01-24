@@ -44,4 +44,6 @@ Totally this project is using:
 
 ![1638899641914](https://user-images.githubusercontent.com/52829521/145081387-6b40fae0-8306-48a2-b08f-a23517d2c028.jpg)
 ![1638899641900](https://user-images.githubusercontent.com/52829521/145081394-2bf20b35-8c35-4e76-9da2-e9de886540ce.jpg)
+pw: I got the certificate ^^ thanks GDG HCMC
+![image](https://user-images.githubusercontent.com/52829521/150735217-59915cec-35bb-4c0e-959d-bca3ad518ac0.png)
 
